@@ -131,7 +131,7 @@ swiggy-clone/
 
 **Sahil Pandey**  
 📚 BTech CSE – ITM Skill University, Navi Mumbai  
-🔗 [GitHub Profile](https://github.com/yourusername)
+🔗 [GitHub Profile]([https://github.com/yourusername](https://github.com/Sahilp2407))
 
 ---
 
